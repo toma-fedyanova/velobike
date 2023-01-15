@@ -1,0 +1,16 @@
+@import "./abstracts/constants";
+@import "./abstracts/mixin";
+@import "./abstracts/placeholder.scss";
+
+//base
+@import "./base/base";
+@import "./base/buttons";
+
+//components
+@import "./components/header";
+@import "./components/cover";
+@import "./components/description";
+@import "./components/table";
+@import "./components/slider";
+@import "./components/order";
+@import "./components/footer";

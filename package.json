@@ -1,0 +1,20 @@
+{
+  "name": "velobike",
+  "version": "1.0.0",
+  "description": "https://solidados.github.io/velobike/\r https://www.figma.com/file/5ks52FSRlWnoNveUAHudGA/Xiaomi-Himo-C26-(Copy)-(Copy)?node-id=0%3A1&t=WZReDegnxQmlbWhL-0",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass style.scss style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toma-fedyanova/velobike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toma-fedyanova/velobike/issues"
+  },
+  "homepage": "https://github.com/toma-fedyanova/velobike#readme"
+}
